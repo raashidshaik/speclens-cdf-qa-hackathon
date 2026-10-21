@@ -1,0 +1,9 @@
+{
+  "external_model_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "model_api_usd": 0,
+  "note": "Local CPU/browser/storage and development assistance excluded; zero inference API cost is not zero total cost.",
+  "runtime_seconds": 198.23,
+  "environment": "Official target commit c7b856cc0d7cfb367e96fda0e5c291eba10cbb10, unchanged business logic; PGlite 0.5.10 PostgreSQL WASM, serialized connection pool; Chromium 141; localhost only"
+}
